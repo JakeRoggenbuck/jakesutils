@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='jakesutils',
-      version='0.1',
+      version='0.2',
       description='A collection of utils that I use all the time in my projects',
       long_description=long_description,
       long_description_content_type="text/markdown",
