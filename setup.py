@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='jakesutils',
-    version='0.3',
+    version='0.4',
     description='A collection of utils that I use all the time in my projects',
     long_description=long_description,
     long_description_content_type="text/markdown",
